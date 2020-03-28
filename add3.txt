@@ -1,2 +1,5 @@
 this file is my new file added to the branch called "firstbranch"
 this has the full copy of the main branch for now
+adding this line of text by checking out the file from master to recommit again
+since this file was already part of firstbranch, the git add -A does not need to be done
+and can be committed directly
